@@ -1,12 +1,13 @@
 Package: simint
 Type: Package
 Title: different way of integrate
-Version: 0.1.0
+Version: 1.0.1
 Author: ann
 Maintainer: The package maintainer <kl7892002@gmail.com>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: GPL(>=2)
+Description: use different ways of integration to get the value
+License: CC0
 Encoding: UTF-8
 LazyData: true
+Depends:
+    stats (>= 0.5.0)
 RoxygenNote: 6.1.1
