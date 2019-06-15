@@ -8,6 +8,5 @@ Description: use different ways of integration to get the value
 License: CC0
 Encoding: UTF-8
 LazyData: true
-Depends:
-    stats (>= 0.5.0)
+Depends:stats (>= 0.5.0)
 RoxygenNote: 6.1.1
